@@ -1,0 +1,17 @@
+{
+    "name": "acf/demo",
+    "title": "ACF 6.1 Demo Block",
+    "description": "A quick WP 6.1 demo block",
+    "category": "formatting",
+    "icon": "images-alt2",
+    "supports": {
+        "__experimentalBorder": true,
+        "padding": true
+    },
+    "acf": {
+            "mode": "preview",
+            "renderTemplate": "demo.php",
+            "blockVersion": 2
+    },
+    "align": "full"
+}

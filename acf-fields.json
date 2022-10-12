@@ -1,0 +1,25 @@
+{
+    "key": "group_text_demo",
+    "title": "Block: WP 6.1 Demo Block",
+    "fields": [
+        {
+            "key": "field_62d51939a8398",
+            "label": "Title",
+            "name": "title",
+            "type": "text",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ]
+}
